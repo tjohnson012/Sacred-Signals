@@ -88,7 +88,7 @@ sacred-signals/
 
 ## 🤝 Contributing
 
-This is a personal creative build and is not open for pull requests.
+This is a personal creative build and is open for pull requests.
 
 ---
 
