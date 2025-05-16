@@ -1,7 +1,7 @@
 
 # Sacred Signals
 
-**Sacred Signals** is a analytics dashboard designed to explore Ethereum pricing trends and NFT market indicators in real-time. Unlike typical NFT search tools, this project was built from the ground up to emphasize data-driven storytelling, interactive charting, and a clean modern interface.
+**Sacred Signals** is a analytics dashboard designed to explore Ethereum pricing trends and NFT market indicators in real-time. Unlike typical NFT search tools, this project was built to emphasize data-driven storytelling, interactive charting, and a clean modern interface.
 
 ---
 
